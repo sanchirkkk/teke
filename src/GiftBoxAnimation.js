@@ -11,13 +11,13 @@ const init_state = {
   move: "move",
   jump: "",
   rotated: "",
-  rotating: ""
+  rotating: "",
 };
 export default function GiftBoxAnimation() {
   const [state, setState] = useReducer(
     (state, new_state) => ({
       ...state,
-      ...new_state
+      ...new_state,
     }),
     init_state
   );
