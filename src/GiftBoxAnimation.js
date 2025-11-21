@@ -3,7 +3,7 @@ import "./styles.css";
 
 import box from "./images/box.png";
 import boxLid from "./images/box-lid.png";
-import kuku from "./images/IMG_4340.png";
+import kuku from "./images/IMG_4371.png";
 // import ConfettiGenerator from "./CanvasConfetti";
 import Confetti from "./confetti/Confetti";
 
